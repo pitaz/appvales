@@ -1,7 +1,6 @@
-import React, {useState} from 'react';
-import {FlatList, SafeAreaView, Text, View} from 'react-native';
+import React from 'react';
+import {FlatList, SafeAreaView, View} from 'react-native';
 import {styles} from './styles';
-import Search from '../../components/Search';
 import Option from './Option';
 import Header from './Header';
 import Footer from './Footer';
