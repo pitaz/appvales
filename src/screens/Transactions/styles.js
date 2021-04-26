@@ -8,9 +8,10 @@ export const styles = StyleSheet.create({
   },
   wrapper: {
     backgroundColor: '#2F26D9',
-    flex: 1,
+    // flex: 1,
     paddingTop: 45,
     paddingHorizontal: 20,
+    marginBottom: 20,
   },
   title: {
     fontSize: 22,
@@ -52,7 +53,7 @@ export const styles = StyleSheet.create({
     color: '#7F90A4',
   },
   transactions: {
-    flex: 1,
+    // flex: 1,
     backgroundColor: '#ffffff',
     borderTopLeftRadius: 45,
     borderTopRightRadius: 45,
